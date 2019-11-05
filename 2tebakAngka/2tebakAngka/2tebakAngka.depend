@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572965900 source:d:\1. kuliah\smt 7\game programing\tugas - zam\2tebakangka\2tebakangka\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

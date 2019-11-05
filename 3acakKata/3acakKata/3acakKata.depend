@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572967282 source:d:\1. kuliah\smt 7\game programing\tugas - zam\3acakkata\3acakkata\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+	<ctime>
+	<string>
+	<stdlib.h>
+
