@@ -1,2 +1,2 @@
 # GamePrograming
-item, tebak kata, acak kata, inventory sistem
+item, tebak angka, acak kata, inventory sistem
